@@ -1,0 +1,26 @@
+.purple {
+    color: hsl(23, 57%, 22%);
+    background-color: rgb(13, 233, 54);
+    font-size: 72px;
+}
+
+.red {
+    background-color: rgba(255, 0, 0, 1);
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+ul {
+    color: brown;
+    background-color: orange;
+    font-size: 48px;
+}
+
+body {
+    background-color: yellow;
+}
+
+.bigger {
+    width: 800px;
+    height: auto;
+}
